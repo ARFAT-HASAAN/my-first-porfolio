@@ -22,10 +22,11 @@
 .half-width img{width: 100%;}
 
 .link-btn{ text-decoration: none;
-          margin-top: 10px;
+          margin-top: 20px;
           border-radius: 5px;
           padding: 10px 12px;
           color: white;
+          font-size: 22px;
           background-image: linear-gradient(orange, tomato);
           font-weight: 700;}
           /* section 3 */
@@ -54,13 +55,16 @@
                         
                         font-size: 25px;}
 
-          .dream-btn{text-decoration: none;
-                     margin-top: 10px;
+          .dream-btn{ 
+            text-decoration: none;
+                     margin-top: 20px;
+                     font-size: 22px;
                     font-weight: 700;
                     padding: 10px 10px;
                     color: wheat;
                     border-radius: 8px;
-                   background-image: linear-gradient(tomato, orange);}
+                   background-image: linear-gradient(tomato, orange);
+                    }
 
                    .section3 h1 {font-size: 50px;}
           
