@@ -13,14 +13,17 @@
 
 .half-width h1 span, .color-orange{color: #ffa500;}
 
-.half-width p{ margin: 5px 0px;
-               font-size: 10px;} 
+.half-width h3{font-size: 35px;
+              }
+
+.half-width p{ margin: 3px 0px;
+               font-size: 25px;} 
 
 .half-width img{width: 100%;}
 
 .link-btn{ text-decoration: none;
           border-radius: 5px;
-          padding: 2px 12px;
+          padding: 10px 12px;
           color: white;
           background-image: linear-gradient(orange, tomato);
           font-weight: 700;}
@@ -39,16 +42,20 @@
                     padding: 10%}
                     .dream-half img{width: 110%;}
           .dream-half h1{margin: 16px 0px;
+                        font-size: 35px;
+                        
                         }
           .dream-half h2{margin: 5px 0px;
-                        font-size: 20px;}
+                        font-size: 30px;
+                      }
 
-          .dream-half p{margin: 8px 0px;
-                        font-size: 10px;}
+          .dream-half p{margin: 4px 0px;
+                        font-size: 10px;
+                        font-size: 22;}
 
           .dream-btn{text-decoration: none;
                     font-weight: 700;
-                    padding: 4px 10px;
+                    padding: 10px 10px;
                     color: wheat;
                     border-radius: 8px;
                    background-image: linear-gradient(tomato, orange);}
@@ -63,8 +70,11 @@
              padding: 15px;
              
              }    
+
+             .half-widthh h2{ font-size: 35px;}
+             .half-widthh h6{ font-size: 25px;}
               
-   .half-widthh p{font-size: 10px;
+   .half-widthh p{font-size: 25px;
                   font-weight: 400;} 
                   
                   .section3-child{background-image: url(web-portfolio-master/exp-bg.png);
