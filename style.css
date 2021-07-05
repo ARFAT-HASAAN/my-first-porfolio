@@ -2,42 +2,49 @@
   margin: 0%;}
 .section1{display: flex;
          background-image: url(/web-portfolio-master/top-banner.png);
-                              background-repeat: no-repeat;}
+                              background-repeat: no-repeat;
+                              background-size: 100%;
+                            }
 .half-width{width:50%;
-            padding: 7%;}
+            padding: 5%;}
 
 .half-width h1{font-size: 20px;
    margin: 10px 0px;}
 
 .half-width h1 span, .color-orange{color: #ffa500;}
 
-.half-width p{ margin: 14px 0px;} 
+.half-width p{ margin: 5px 0px;
+               font-size: 10px;} 
 
 .half-width img{width: 100%;}
 
 .link-btn{ text-decoration: none;
           border-radius: 5px;
-          padding: 5px 7px;
+          padding: 2px 12px;
           color: white;
           background-image: linear-gradient(orange, tomato);
           font-weight: 700;}
           /* section 3 */
           .section2{display: flex;
                     background-image: url(/web-portfolio-master/dream-bg.png)
+
                     ;
                  background-repeat: no-repeat;
                 background-position: right;
+                background-size: 10%;
+               
                  }
 
-          .dream-half{width: 30%;
-                    padding: 7%}
-                    .dream-half img{width: 100%;}
+          .dream-half{width: 40%;
+                    padding: 10%}
+                    .dream-half img{width: 110%;}
           .dream-half h1{margin: 16px 0px;
                         }
-          .dream-half h2{margin: 8px 0px;
+          .dream-half h2{margin: 5px 0px;
                         font-size: 20px;}
 
-          .dream-half p{margin: 8px 0px;}
+          .dream-half p{margin: 8px 0px;
+                        font-size: 10px;}
 
           .dream-btn{text-decoration: none;
                     font-weight: 700;
@@ -46,4 +53,38 @@
                     border-radius: 8px;
                    background-image: linear-gradient(tomato, orange);}
           
-                        
+.section3-child{display: flex;
+               padding: 5%;
+               }   
+               
+ .half-widthh{width: 45%;
+              margin: 0px 18px;
+             box-shadow: 2px 2px 5px black;
+             padding: 15px;
+             
+             }    
+              
+   .half-widthh p{font-size: 10px;
+                  font-weight: 400;} 
+                  
+                  .section3-child{background-image: url(/web-portfolio-master/exp-bg.png);
+                   background-repeat: no-repeat;
+                   background-position: left;
+                   background-size: 10%;
+                  }
+
+                  #halff{border-left: 4px solid;
+                    border-image:linear-gradient(blue,black);
+                   border-image-slice: 2;
+                  border-radius: 5px;}
+
+                  #half{border-left: 4px solid;
+                    border-image:linear-gradient(tomato,black);
+                   border-image-slice: 2;
+                  border-radius: 5px;}
+
+                  footer p{text-align: center;
+                           font-size: 10px;
+                           color:grey;
+                          padding: 10px;
+                        text-shadow: 1px 1px 7px  black;}
