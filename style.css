@@ -22,6 +22,7 @@
 .half-width img{width: 100%;}
 
 .link-btn{ text-decoration: none;
+          margin-top: 10px;
           border-radius: 5px;
           padding: 10px 12px;
           color: white;
@@ -42,7 +43,7 @@
                     padding: 10%}
                     .dream-half img{width: 110%;}
           .dream-half h1{margin: 16px 0px;
-                        font-size: 35px;
+                        font-size: 45px;
                         
                         }
           .dream-half h2{margin: 5px 0px;
@@ -50,15 +51,18 @@
                       }
 
           .dream-half p{margin: 4px 0px;
-                        font-size: 10px;
-                        font-size: 22;}
+                        
+                        font-size: 25px;}
 
           .dream-btn{text-decoration: none;
+                     margin-top: 10px;
                     font-weight: 700;
                     padding: 10px 10px;
                     color: wheat;
                     border-radius: 8px;
                    background-image: linear-gradient(tomato, orange);}
+
+                   .section3 h1 {font-size: 50px;}
           
 .section3-child{display: flex;
                padding: 5%;
@@ -72,9 +76,10 @@
              }    
 
              .half-widthh h2{ font-size: 35px;}
-             .half-widthh h6{ font-size: 25px;}
+             .half-widthh h6{ font-size: 25px;
+                             margin: 5px 0px 5px 0px;}
               
-   .half-widthh p{font-size: 25px;
+   .half-widthh p{font-size: 20px;
                   font-weight: 400;} 
                   
                   .section3-child{background-image: url(web-portfolio-master/exp-bg.png);
